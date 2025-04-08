@@ -1,6 +1,6 @@
 # Initial Interaction Notes Process
 
-In my time I have had many Initial Interaction's whether that be with a person, a business or a product, I always felt that this being docutmented was missed by many, yet it is something that we do today, even without thinking about it, as they form some of those "mental notes" that we may take.
+In my time I have had many Initial Interaction's whether that be with a person, a business or a product, I always felt that this being documented was missed by many, yet it is something that we do today, even without thinking about it, as they form some of those "mental notes" that we may take.
 
 I've always found these are where most people determine whether they either like or dislike a project, without having spent a decent amount of time with the project.
 
@@ -14,7 +14,7 @@ Note - these may be useful for a whole release of a product, or more likely, be 
 IIN's are a new note type and are of use for detailing any comments about that interation an individual/team may have on a project.
 These are to be used, accepted, and requested as a PR from anyone that has an Initial Interaction with the project.
 
-IIN's can either be a shallow set of notes, this may be a simple `all looks good, bar minor comments` or may be used when interacting with a specific part of a project.
+IIN's can either be a shallow set of notes, this may be a simple `all looks good, barring minor comments` or may be used when interacting with a specific part of a project.
 IIN's can also be a highly detailed set of notes.
 
 There is no limit to number of IIN's a user can submit, **however** they should always link back to previous IIN's. This enables the user to show the evolution of their understanding, which will help project maintainers and collaborators, in being able to work with that user
@@ -22,7 +22,7 @@ There is no limit to number of IIN's a user can submit, **however** they should 
 
 ## How to Submit an IIN
 
-Projects can decide on whether they want to contain IIN's within thier repository or whether they have a dedicated reposistory where these IIN's and other Project Docs are stored.
+Projects can decide on whether they want to contain IIN's within their repository or whether they have a dedicated repository where these IIN's and other Project Docs are stored.
 
 If they store them in the repository, they are stored in `./docs/IINs/`
 If they store them elsewhere then they should still store them in whichever repo they designate and should be stored in `./docs/IINs/`.
@@ -61,7 +61,7 @@ This project has a number of goals
 
 - Usable Templates
 - Usable workflow defininitions
-  - whether they be github workflows or Azure Pipeline definitions.
+  - Whether they be github workflows or Azure Pipeline definitions.
   - Potential usable github actions/ Azure Pipeline Tasks
   - Possible Power Automate tasks if used with OneNote's 
 - Adopted by
@@ -69,7 +69,7 @@ This project has a number of goals
   - Business Development Teams
   - Consultants
 - Supplements the Issues/Discussions/PR's process
-- Not just codified like this but also used in existing processes with existing productivity tooling like Power AutoMate or other process workflow tooling.
+- Not just codified like this but also used in existing processes with existing productivity tooling like Power Automate or other process workflow tooling.
 - Ability for these to be used as blog posts or to help in building blog posts or other forms of content.
 - Greater documentation and sharing of notes.
 
